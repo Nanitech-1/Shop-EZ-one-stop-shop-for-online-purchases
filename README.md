@@ -70,6 +70,6 @@ npm run dev
  Deploy on Vercel / Render / Railway
 
 🧑‍🤝‍🧑 Contributors
-Your Name
-
-(Add more if working in a team)
+ Palla Nani
+ Bathina Reena
+ Bonthu Sandeep
