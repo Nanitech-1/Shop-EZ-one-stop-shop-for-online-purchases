@@ -71,5 +71,6 @@ npm run dev
 
 🧑‍🤝‍🧑 Contributors
  Palla Nani
+ Gorrela Radhika Devi
  Bathina Reena
  Bonthu Sandeep
