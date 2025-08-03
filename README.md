@@ -30,8 +30,6 @@ Shopez is a modern and responsive e-commerce web application designed for seamle
 - GitHub Actions for CI/CD
 - Docker (optional)
 
-## 📸 Screenshots
-
 *(Add screenshots of your app UI here)*
 
 ## 🧑‍💻 Getting Started
