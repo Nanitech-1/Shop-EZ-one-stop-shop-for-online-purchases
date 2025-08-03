@@ -59,6 +59,7 @@ cp .env.example .env
 
 # Run development server
 npm run dev
+
 ✅ To-Do
  Add unit tests and integration tests
 
